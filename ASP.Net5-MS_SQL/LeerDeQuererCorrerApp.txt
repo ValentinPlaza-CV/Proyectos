@@ -1,0 +1,5 @@
+ASP.Net5-MS_SQL
+
+	- Correr solucion de .Net FB/Tarjeta/FBTarjeta.sln
+	- De ser necesario modificar el String de conexion en FBTarjeta/appsettings.json
+	- Crear base de datos con terminal y comando update-database.
