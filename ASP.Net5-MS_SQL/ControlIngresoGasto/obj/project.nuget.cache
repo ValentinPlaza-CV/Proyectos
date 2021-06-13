@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtDcUi3da1j2u+rZMqpXg/8MS9zyhtntmQqokV7/B3qrJzKXjsWY/gh16yDhO+bN2FzdJwOKEHlXD4dVB7b6aw==",
+  "dgSpecHash": "rZCpJITZxnRCp/EzS3Zk7Kxp257Z9P0bzf5dR6R6Xv5Hp44z+1ChtzvrBancSzIfwOMmgOaRnbGnyglgzJjqGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Desktop\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
+  "projectFilePath": "C:\\Users\\valen\\Desktop\\Proyectos\\ASP.Net5-MS_SQL\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

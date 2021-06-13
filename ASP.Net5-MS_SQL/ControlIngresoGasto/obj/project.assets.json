@@ -7254,11 +7254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\Desktop\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
+      "projectUniqueName": "C:\\Users\\valen\\Desktop\\Proyectos\\ASP.Net5-MS_SQL\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
       "projectName": "ControlIngresoGasto",
-      "projectPath": "C:\\Users\\valen\\Desktop\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
+      "projectPath": "C:\\Users\\valen\\Desktop\\Proyectos\\ASP.Net5-MS_SQL\\ControlIngresoGasto\\ControlIngresoGasto.csproj",
       "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\Desktop\\ControlIngresoGasto\\obj\\",
+      "outputPath": "C:\\Users\\valen\\Desktop\\Proyectos\\ASP.Net5-MS_SQL\\ControlIngresoGasto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
